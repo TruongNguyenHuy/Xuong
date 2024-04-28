@@ -8,3 +8,6 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Truong Nguyen Huy <truongnguyenhuy02@gmail.com>
+Moc Studio <moccreative.work@gmail.com>
